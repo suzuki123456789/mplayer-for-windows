@@ -1,49 +1,49 @@
 #summary Cumulative changelog for MPlayer
 
-r35710-2:
+r**35710-2:
 
   * Synchronized FFmpeg to git b367453
   * Synchronized internal libass to git 7e45532
   * Updated FreeType2 to 2.4.11
 
-r35710:
+r**35710:
 
-  * Synchronized MPlayer to svn r35710
+  * Synchronized MPlayer to svn r**35710
   * Synchronized FFmpeg to git ec40d15
   * Updated Live555 to 12.24.2012
   * Added libmng 1.0.10
 
 This release fixes a "Ran out of numbered images" crash when seeking in H.264 files.
 
-r35701:
+r**35701:
 
-  * Synchronized MPlayer to svn r35701
+  * Synchronized MPlayer to svn r**35701
   * Synchronized FFmpeg to git 6375318
 
-A patch in libdvdnav (r1245) was reversed, which caused inability to play any DVDs using dvdnav://.
+A patch in libdvdnav (r**1245) was reversed, which caused inability to play any DVDs using dvdnav://.
 
-r35691:
+r**35691:
 
-  * Synchronized MPlayer to svn r35691
+  * Synchronized MPlayer to svn r**35691
   * Synchronized FFmpeg to git 2e59142
 
-r35679:
+r**35679:
 
-  * Synchronized MPlayer to svn r35679
+  * Synchronized MPlayer to svn r**35679
   * Synchronized FFmpeg to git 616e6ff
   * Updated libx264 to git 1cffe9f
   * Updated libvpx to git 7a09f6b
   * Updated libopus to 1.0.2
 
-r35660:
+r**35660:
 
-  * Synchronized MPlayer to svn r35660
+  * Synchronized MPlayer to svn r**35660
   * Synchronized FFmpeg to git fd3cdca
   * Reverted a change in FFmpeg (git 419ade4) that broke screenshot functionality
 
 MEncoder is now included in this package.
 
-r35625:
+r**35625:
 
-  * Synchronized MPlayer to r35625
+  * Synchronized MPlayer to r**35625
   * Synchronized FFmpeg to 4c554c9
