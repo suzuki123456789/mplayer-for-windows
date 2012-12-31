@@ -1,4 +1,12 @@
 #summary Cumulative changelog for MPlayer
+#labels Featured
+
+r**35712:
+
+  * Synchronized MPlayer to svn r35712
+  * Synchronized FFmpeg to git 9a74282
+
+This build fixes ASS/SSA subtitle corruption.
 
 r**35710-2:
 
