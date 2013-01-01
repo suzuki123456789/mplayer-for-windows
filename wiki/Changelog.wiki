@@ -1,5 +1,11 @@
 #summary Cumulative changelog for MPlayer
 #labels Featured
+Next release:
+
+  * Synchronized FFmpeg to git 5ed5e90
+  * Updated libvpx to 1.2.0
+
+Live555 will be removed in the next release since FFmpeg can handle rtsp://, but they'll need to be prefixed with ffmpeg:// (ex: ffmpeg://rtsp://url.to/stream). Pthreads (pthreadGC2.dll) have also been made static, no longer requiring the pthread dll.
 
 r**35712:
 
