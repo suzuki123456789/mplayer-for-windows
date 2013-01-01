@@ -1,0 +1,14 @@
+#summary MinGW Build Environment
+#labels Phase-Design
+
+MPlayer and its libraries are built using [http://www.mingw.org MinGW] & MSYS, a minimal Unix-like shell for Windows require to build libraries on Windows. The GCC version used is 4.6.3.
+
+A complete build environment is made available at the following URL: [http://sourceforge.net/projects/smplayer/files/MinGW MinGW @ Sourceforge]
+
+
+== Details ==
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
