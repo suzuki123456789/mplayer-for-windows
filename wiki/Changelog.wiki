@@ -1,11 +1,16 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
+
 Next release:
 
-  * Synchronized FFmpeg to git 98ce9b8
+  * Synchronized FFmpeg to git e9fd51b
   * Updated libvpx to 1.2.0
+  * Added icon/version info for MEncoder
+  * Removed Live555.
 
-Live555 will be removed in the next release since FFmpeg can handle rtsp://, but they'll need to be prefixed with ffmpeg:// (ex: ffmpeg://rtsp://url.to/stream). Pthreads (pthreadGC2.dll) have also been made static, no longer requiring the pthread dll.
+rtsp:// urls, previously handled by Live555, are now handled by ffmpeg by prefixing it with ffmpeg:// (ex: ffmpeg://rtsp://url.to/stream). Pthreads (pthreadGC2.dll) has also been made static, no longer requiring the pthread dll.
+
+This build fixes "Unsupported PixelFormat" spamming that occurred with some H.264 videos.
 
 *(12-31-2012) - r**35712*:
 
