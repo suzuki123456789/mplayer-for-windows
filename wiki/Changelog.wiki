@@ -1,7 +1,7 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
-*(01-01-2012) - r**35712-2*:
+*(01-01-2013) - r**35712-2*:
 
   * Synchronized FFmpeg to git 1e28fa2
   * Updated libvpx to 1.2.0
