@@ -1,9 +1,9 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
-Next release:
+*(01-01-2012) - r**35712-2*:
 
-  * Synchronized FFmpeg to git e9fd51b
+  * Synchronized FFmpeg to git 1e28fa2
   * Updated libvpx to 1.2.0
   * Added icon/version info for MEncoder
   * Removed Live555.
