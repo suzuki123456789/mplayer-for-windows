@@ -3,7 +3,7 @@
 
 *(01-01-2013) - r**35712-2*:
 
-  * Synchronized FFmpeg to git 1e28fa2
+  * Updated FFmpeg to git 1e28fa2
   * Updated libvpx to 1.2.0
   * Added icon/version info for MEncoder
   * Removed Live555.
@@ -14,21 +14,21 @@ This build fixes "Unsupported Pixel**Format" spamming that occurred with some H.
 
 *(12-31-2012) - r**35712*:
 
-  * Synchronized MPlayer to svn r**35712
-  * Synchronized FFmpeg to git 9a74282
+  * Updated MPlayer to svn r**35712
+  * Updated FFmpeg to git 9a74282
 
 This build fixes ASS/SSA subtitle corruption.
 
 *(12-30-2012) - r**35710-2*:
 
-  * Synchronized FFmpeg to git b367453
-  * Synchronized internal libass to git 7e45532
+  * Updated FFmpeg to git b367453
+  * Updated internal libass to git 7e45532
   * Updated Free**Type2 to 2.4.11
 
 *(12-24-2012) - r**35710*:
 
-  * Synchronized MPlayer to svn r**35710
-  * Synchronized FFmpeg to git ec40d15
+  * Updated MPlayer to svn r**35710
+  * Updated FFmpeg to git ec40d15
   * Updated Live555 to 12.24.2012
   * Added libmng 1.0.10
 
@@ -36,28 +36,28 @@ This release fixes a "Ran out of numbered images" crash when seeking in H.264 fi
 
 *(12-20-2012) - r**35701*:
 
-  * Synchronized MPlayer to svn r**35701
-  * Synchronized FFmpeg to git 6375318
+  * Updated MPlayer to svn r**35701
+  * Updated FFmpeg to git 6375318
 
 A patch in libdvdnav (r**1245) was reversed, which caused inability to play any DVDs using dvdnav://.
 
 *(12-17-2012) - r**35691*:
 
-  * Synchronized MPlayer to svn r**35691
-  * Synchronized FFmpeg to git 2e59142
+  * Updated MPlayer to svn r**35691
+  * Updated FFmpeg to git 2e59142
 
 *(12-14-2012) - r**35679*:
 
-  * Synchronized MPlayer to svn r**35679
-  * Synchronized FFmpeg to git 616e6ff
+  * Updated MPlayer to svn r**35679
+  * Updated FFmpeg to git 616e6ff
   * Updated libx264 to git 1cffe9f
   * Updated libvpx to git 7a09f6b
   * Updated libopus to 1.0.2
 
 *(12-10-2012) - r**35660*:
 
-  * Synchronized MPlayer to svn r**35660
-  * Synchronized FFmpeg to git fd3cdca
+  * Updated MPlayer to svn r**35660
+  * Updated FFmpeg to git fd3cdca
   * Reverted a change in FFmpeg (git 419ade4) that broke screenshot functionality
 
 MEncoder is now included in this package.
@@ -65,5 +65,5 @@ MEncoder is now included in this package.
 
 *(12-09-2012) - r**35625*:
 
-  * Synchronized MPlayer to r**35625
-  * Synchronized FFmpeg to 4c554c9
+  * Updated MPlayer to r**35625
+  * Updated FFmpeg to 4c554c9
