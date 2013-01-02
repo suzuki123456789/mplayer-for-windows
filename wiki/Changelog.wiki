@@ -8,9 +8,9 @@ Next release:
   * Added icon/version info for MEncoder
   * Removed Live555.
 
-rtsp:// urls, previously handled by Live555, are now handled by ffmpeg by prefixing it with ffmpeg:// (ex: ffmpeg://rtsp://url.to/stream). Pthreads (pthreadGC2.dll) has also been made static, no longer requiring the pthread dll.
+rtsp:// urls, previously handled by Live555, are now handled by ffmpeg by prefixing it with ffmpeg:// (ex: ffmpeg://rtsp://url.to/stream). Pthreads (pthreadGC2.dll) has also been made static, no longer requiring the pthread dll to run.
 
-This build fixes "Unsupported PixelFormat" spamming that occurred with some H.264 videos.
+This build fixes "Unsupported Pixel**Format" spamming that occurred with some H.264 videos.
 
 *(12-31-2012) - r**35712*:
 
@@ -23,7 +23,7 @@ This build fixes ASS/SSA subtitle corruption.
 
   * Synchronized FFmpeg to git b367453
   * Synchronized internal libass to git 7e45532
-  * Updated FreeType2 to 2.4.11
+  * Updated Free**Type2 to 2.4.11
 
 *(12-24-2012) - r**35710*:
 
