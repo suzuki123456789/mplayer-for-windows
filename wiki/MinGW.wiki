@@ -1,8 +1,8 @@
 #summary MinGW Build Environment
 #labels Featured
 
-MPlayer and its libraries are built using [http://www.mingw.org MinGW] & MSYS, a minimal Unix-like shell for Windows require to build libraries on Windows. The GCC version used is 4.6.3.
+MPlayer and its libraries are built using [http://www.mingw.org MinGW] & MSYS, a minimal Unix-like shell for Windows required to execute build scripts. The GCC version used is 4.6.3.
 
-A complete build environment and sources for libraries/utilities used in MPlayer is available at the following URL: [http://sourceforge.net/projects/smplayer/files/MinGW/mplayer]
+A complete build environment and sources used to compile the libraries included in MPlayer are available at the following URL: [http://sourceforge.net/projects/smplayer/files/MinGW/mplayer]
 
 Extract and edit `MinGW\msys\etc\fstab` according to where you extracted it. Launch the MSYS shell by executing `MinGW\msys\msys.bat`.
