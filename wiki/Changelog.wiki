@@ -1,6 +1,11 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
+Next release:
+
+  * Updated FFmpeg to git c44b4ee
+  * Added libgsm 1.0.13
+
 *(01-01-2013) - r**35712-2*:
 
   * Updated FFmpeg to git 1e28fa2
