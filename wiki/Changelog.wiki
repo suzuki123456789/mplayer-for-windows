@@ -1,10 +1,13 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
-Next release:
+*(01-06-2013) - r**35715*:
 
-  * Updated FFmpeg to git c44b4ee
+  * Updated MPlayer to svn r**35715
+  * Updated FFmpeg to git 79013a5 (1.1)
   * Added libgsm 1.0.13
+
+This build may fix _some_ cases of the "No Disk" error.
 
 *(01-01-2013) - r**35712-2*:
 
