@@ -5,10 +5,12 @@
 
   * Updated MPlayer to svn r**35738
   * Updated FFmpeg to git 2ea3f37
-  * Updated libass to git 340ff8f
-  * Updated libfontconfig to 2.10.91
-  * Updated x264 to git bc13772
-  * Updated rtmpdump to git 3a1e20c
+
+  * External libraries:
+    * Updated libass to git 340ff8f
+    * Updated libfontconfig to 2.10.91
+    * Updated x264 to git bc13772
+    * Updated rtmpdump to git 3a1e20c
 
 *(01-06-2013) - r**35715*:
 
