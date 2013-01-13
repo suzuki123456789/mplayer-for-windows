@@ -1,12 +1,12 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
-*(01-??-2013) - r**35738*:
+*(01-12-2013) - r**35738*:
 
   * Updated MPlayer to svn r**35738
   * Updated FFmpeg to git 2ea3f37
 
-  * External libraries:
+  | External libraries:
     * Updated libass to git 340ff8f
     * Updated libfontconfig to 2.10.91
     * Updated x264 to git bc13772
