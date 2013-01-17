@@ -1,0 +1,3 @@
+#summary Source Code
+
+Source code can be found in the Downloads area. Any local changes to MPlayer can be found in a single svn diff file in the '0dev' folder. It is generated automatically when the packages are created so as to keep it up to date.
