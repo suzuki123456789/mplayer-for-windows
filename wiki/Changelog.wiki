@@ -1,10 +1,13 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
-*(01-20-2013) - r**35801*:
+*(01-20-2013) - r**35802*:
 
-  * Updated MPlayer to svn r**35801
-  * Updated FFmpeg to git 00cae86
+  * Updated MPlayer to svn r**35802
+  * Updated FFmpeg to git c74d465
+
+  * External libraries:
+    * Updated libjpeg to 9
 
 Minor enhancement: Adds an informational line above "Build date" to more easily identify the FFmpeg revision used.
 
