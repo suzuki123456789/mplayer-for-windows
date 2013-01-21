@@ -1,6 +1,13 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
+*(01-20-2013) - r**35801*:
+
+  * Updated MPlayer to svn r**35801
+  * Updated FFmpeg to git 00cae86
+
+Minor enhancement: Adds an informational line above "Build date" to more easily identify the FFmpeg revision used.
+
 *(01-18-2013) - r**35786*:
 
   * Updated MPlayer to svn r**35786
