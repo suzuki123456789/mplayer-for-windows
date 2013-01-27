@@ -4,7 +4,7 @@
 *(01-26-2013) - r**35901*:
 
   * Updated MPlayer to svn r**35901
-  * Updated FFmpeg to git 5cb0782
+  * Updated FFmpeg to git 5de286e
 
 *(01-21-2013) - r**35802*:
 
