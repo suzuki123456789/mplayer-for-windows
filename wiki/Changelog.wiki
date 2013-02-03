@@ -1,6 +1,18 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
+*(02-03-2013) - r**35908*:
+
+  * Updated MPlayer to svn r35908
+  * Updated FFmpeg to git d106679 (r49564)
+
+This build fixes Issue #4.
+
+*(01-31-2013) - r**35906*:
+
+  * Updated MPlayer to svn r35906
+  * Updated FFmpeg to git 086566a (r49507)
+
 *(01-28-2013) - r**35905*:
 
   * Updated MPlayer to svn r**35905
