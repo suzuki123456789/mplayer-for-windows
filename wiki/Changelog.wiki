@@ -1,12 +1,12 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
-*(02-??-2013) - r**359??*:
+*(02-06-2013) - r**35910*:
 
-  * Updated MPlayer to r**359??
-  * Updated FFmpeg to git ??
+  * Updated MPlayer to r**35910
+  * Updated FFmpeg to git 0d194ee (r**49703)
 
-[http://sourceforge.net/projects/mad/files/libmad/ libmad] will be dropped from the next release. There should be sufficient MPEG audio decoding capabilities already present in FFmpeg and libmpg123.
+[http://sourceforge.net/projects/mad/files/libmad/ libmad] has been dropped from this release. There should be sufficient MPEG audio decoding capabilities already present in FFmpeg and libmpg123.
 
 *(02-03-2013) - r**35908*:
 
