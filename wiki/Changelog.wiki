@@ -5,6 +5,8 @@
 
   * Updated MPlayer to r**35910
   * Updated FFmpeg to git 0d194ee (r**49703)
+  * Updated internal libdvdread to git 121edec
+  * Updated internal libdvdnav to git 9487d1b
 
 [http://sourceforge.net/projects/mad/files/libmad/ libmad] has been dropped from this release. There should be sufficient MPEG audio decoding capabilities already present in FFmpeg and libmpg123.
 
