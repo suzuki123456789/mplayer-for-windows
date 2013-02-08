@@ -1,7 +1,7 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
-*(02-06-2013) - r**35910*:
+*(02-08-2013) - r**35910*:
 
   * Updated MPlayer to r**35910
   * Updated FFmpeg to git 0d194ee (r**49703)
