@@ -1,3 +1,8 @@
 #summary Source Code
 
-Source code can be found in the Downloads area. Any local changes to MPlayer can be found in a single svn diff file in the 'dev' folder. It is generated automatically when the packages are created so as to keep it up to date.
+Source code can be found in the Downloads area with an accompanying binary release. Any local changes to MPlayer can be found in a single diff file in the 'dev' folder, generated automatically when the source packages are created.
+
+Sites for the main source code repositories:
+
+MPlayer: http://www.mplayerhq.hu/design7/dload.html<br>
+FFmpeg: http://git.videolan.org/?p=ffmpeg.git
