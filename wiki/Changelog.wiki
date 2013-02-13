@@ -4,7 +4,7 @@
 Next Release:
 
   * Updated FFmpeg to git 2acd5fb (r**49848)
-  * Added color console, which can be enabled via 'msgcolor=yes' in mplayer\config [patch originally by Sherpya]
+  * Added color console, which can be enabled via 'msgcolor=yes' in mplayer\config [**patch originally by Sherpya]
 
 *(02-11-2013) - r**35910-2*:
 
