@@ -3,6 +3,11 @@
 
 Next Release:
 
+  * Updated FFmpeg to git 9f16cb9 (r**49947)
+  * Updated internal libdvdcss to git 2496803
+
+*(02-13-2013) - r**35910-3*:
+
   * Updated FFmpeg to git 5dd78ef (r**49940)
   * Added color console, which can be enabled via 'msgcolor=yes' in mplayer\config [**patch originally by Sherpya]
 
