@@ -3,8 +3,9 @@
 
 Next Release:
 
-  * Updated FFmpeg to git 9f16cb9 (r**49947)
-  * Updated internal libdvdcss to git 2496803
+  * Updated MPlayer to r**35914
+  * Updated FFmpeg to git 4a6fa79 (r**49972)
+  * Updated internal libdvdcss to git 45999b7
 
 *(02-13-2013) - r**35910-3*:
 
