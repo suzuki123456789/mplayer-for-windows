@@ -1,9 +1,9 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
-Next Release:
+*(02-15-2013) - r**35915:
 
-  * Updated MPlayer to r**35914
+  * Updated MPlayer to r**35915
   * Updated FFmpeg to git 4a6fa79 (r**49972)
   * Updated internal libdvdcss to git 45999b7
 
