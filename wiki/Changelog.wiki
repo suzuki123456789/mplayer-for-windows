@@ -8,6 +8,9 @@ Note: "Draft" indicates a work-in-progress build, not released yet and data/cont
  * Updated MPlayer to r**35922
  * Updated FFmpeg to git 2ccaab9 (r**50130)
 
+ * External libraries:
+   * Updated fontconfig to git 2c69625
+
 Fixed XP incompatibility.
 
 *(02-20-2013) - r**35921:
