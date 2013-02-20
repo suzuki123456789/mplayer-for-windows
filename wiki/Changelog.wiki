@@ -3,7 +3,14 @@
 
 Note: "Draft" indicates a work-in-progress build, not released yet and data/content subject to change.
 
-(Draft) *(02-20-2013) - r**35921:
+*(02-20-2013) - r**35922:
+
+ * Updated MPlayer to r**35922
+ * Updated FFmpeg to git 2ccaab9 (r**50130)
+
+Fixed XP incompatibility.
+
+*(02-20-2013) - r**35921:
 
  * Updated MPlayer to r**35921
  * Updated FFmpeg to git 8d1dd5b (r**50109)
