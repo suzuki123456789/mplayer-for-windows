@@ -3,6 +3,15 @@
 
 Note: "Draft" indicates a work-in-progress build, not released yet and data/content subject to change.
 
+*(02-23-2013) - r**35923:
+
+ * Updated MPlayer to r**35923
+ * Updated FFmpeg to git 066739f (r**50209)
+
+ * External libraries:
+   * Added libgif 4.1.7
+   * Reverted fontconfig to 2.10.91
+
 *(02-20-2013) - r**35922:
 
  * Updated MPlayer to r**35922
