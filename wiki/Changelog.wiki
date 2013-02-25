@@ -3,14 +3,14 @@
 
 Note: "Draft" indicates a work-in-progress build, not released yet and data/content subject to change.
 
-*(02-25-2013) - r**35923-2:
+*(02-25-2013) - r**35923-2*:
 
-* Updated FFmpeg to git 394130e (r**50290)
+  * Updated FFmpeg to git 394130e (r**50290)
 
-* External libraries:
-  * Added live555 2013.02.11
+  * External libraries:
+    * Added live555 2013.02.11
 
-*(02-23-2013) - r**35923:
+*(02-23-2013) - r**35923*:
 
  * Updated MPlayer to r**35923
  * Updated FFmpeg to git 066739f (r**50209)
@@ -19,7 +19,7 @@ Note: "Draft" indicates a work-in-progress build, not released yet and data/cont
    * Added libgif 4.1.7
    * Reverted fontconfig to 2.10.91
 
-*(02-20-2013) - r**35922:
+*(02-20-2013) - r**35922*:
 
  * Updated MPlayer to r**35922
  * Updated FFmpeg to git 2ccaab9 (r**50130)
@@ -29,7 +29,7 @@ Note: "Draft" indicates a work-in-progress build, not released yet and data/cont
 
 Fixed XP incompatibility.
 
-*(02-20-2013) - r**35921:
+*(02-20-2013) - r**35921*:
 
  * Updated MPlayer to r**35921
  * Updated FFmpeg to git 8d1dd5b (r**50109)
@@ -37,12 +37,12 @@ Fixed XP incompatibility.
  * External libraries:
    * Added libilbc
 
-*(02-18-2013) - r**35917:
+*(02-18-2013) - r**35917*:
 
  * Updated MPlayer to r**35917
  * Updated FFmpeg to git c63f9fb (r**50056)
 
-*(02-15-2013) - r**35915:
+*(02-15-2013) - r**35915*:
 
   * Updated MPlayer to r**35915
   * Updated FFmpeg to git 4a6fa79 (r**49972)
