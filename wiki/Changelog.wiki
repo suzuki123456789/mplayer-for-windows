@@ -3,6 +3,13 @@
 
 Note: "Draft" indicates a work-in-progress build, not released yet and data/content subject to change.
 
+*(02-25-2013) - r**35923-2:
+
+* Updated FFmpeg to git 394130e (r**50290)
+
+* External libraries:
+  * Added live555 2013.02.11
+
 *(02-23-2013) - r**35923:
 
  * Updated MPlayer to r**35923
