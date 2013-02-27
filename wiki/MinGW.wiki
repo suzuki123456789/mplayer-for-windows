@@ -5,4 +5,4 @@ MPlayer and its libraries are built using [http://mingw-w64.sourceforge.net MinG
 
 A complete build environment and sources used to compile the libraries included in MPlayer are available at the following URL: [http://sourceforge.net/projects/smplayer/files/MinGW/mplayer]
 
-Extract and edit `MinGW\msys\etc\fstab` and `MinGW\lib\gcc\i686-w64-mingw32\4.6.3\specs` (local_prefix) according to where you extracted it. Launch the MSYS shell by executing `MinGW\msys\msys.bat`.
+Extract anywhere (preferably in path without spaces), edit `MinGW\msys\etc\fstab` and `MinGW\lib\gcc\i686-w64-mingw32\4.6.3\specs` (local_prefix) according to where you extracted it. Launch the MSYS shell by executing `MinGW\msys\msys.bat`.
