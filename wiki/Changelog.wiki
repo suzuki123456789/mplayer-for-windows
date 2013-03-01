@@ -14,7 +14,7 @@ Note: "Draft" indicates a work-in-progress build, not released yet and data/cont
   * Updated FFmpeg to git e54a1bd (r**50368)
 
   * External libraries:
-    * updated x264 to git b3065e6
+    * Updated x264 to git b3065e6
 
 Fixed a crash when using '-vo sdl'.
 
