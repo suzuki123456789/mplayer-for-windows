@@ -3,6 +3,16 @@
 
 Note: "Draft" indicates a work-in-progress build, not released yet and data/content subject to change.
 
+*(02-28-2013) - r**35925*:
+
+  * Updated MPlayer to svn r35925
+  * Updated FFmpeg to git e54a1bd (r50368)
+
+  * External libraries:
+    * updated x264 to git b3065e6
+
+Fixed a crash when using '-vo sdl'.
+
 *(02-25-2013) - r**35923-2*:
 
   * Updated FFmpeg to git 394130e (r**50290)
