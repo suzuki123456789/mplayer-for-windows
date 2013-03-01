@@ -3,6 +3,11 @@
 
 Note: "Draft" indicates a work-in-progress build, not released yet and data/content subject to change.
 
+*(03-01-2013) - r**35927*:
+
+  * Updated MPlayer to svn r35927
+  * Updated FFmpeg to git e20f2dc (r50389)
+
 *(02-28-2013) - r**35925*:
 
   * Updated MPlayer to svn r**35925
