@@ -5,8 +5,8 @@ Note: "Draft" indicates a work-in-progress build, not released yet and data/cont
 
 *(02-28-2013) - r**35925*:
 
-  * Updated MPlayer to svn r35925
-  * Updated FFmpeg to git e54a1bd (r50368)
+  * Updated MPlayer to svn r**35925
+  * Updated FFmpeg to git e54a1bd (r**50368)
 
   * External libraries:
     * updated x264 to git b3065e6
