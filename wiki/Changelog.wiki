@@ -3,6 +3,16 @@
 
 Note: "Draft" indicates a work-in-progress build, not released yet and data/content subject to change.
 
+*(03-05-2013) - r**35932*:
+
+  * Updated MPlayer to svn r**35932
+  * Updated FFmpeg to git 715c230 (r**50475)
+
+  * External libraries:
+    * Updated libass to git fc3b05f
+    * Updated live555 to 2013.02.27
+    * Updated x264 to git c832fe9
+
 *(03-01-2013) - r**35927*:
 
   * Updated MPlayer to svn r**35927
