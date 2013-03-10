@@ -3,6 +3,15 @@
 
 Note: "Draft" indicates a work-in-progress build, not released yet and data/content subject to change.
 
+*(03-09-2013) - r**35935*:
+
+  * Updated MPlayer to svn r**35935
+  * Updated FFmpeg to git 98c4268 (r**50601)
+
+  * External libraries:
+    * Reverted libdvdcss to internal mplayer svn
+    * Updated live555 to 2013.03.07
+
 *(03-05-2013) - r**35932*:
 
   * Updated MPlayer to svn r**35932
