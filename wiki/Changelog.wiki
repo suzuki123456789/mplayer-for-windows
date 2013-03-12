@@ -3,6 +3,16 @@
 
 Note: "Draft" indicates a work-in-progress build, not released yet and data/content subject to change.
 
+*(03-12-2013) - r**35952*:
+
+  * Updated MPlayer to svn r**35952
+  * Updated FFmpeg to git b5e5ed8 (r**50663)
+
+  * External libraries:
+    * Added libmad 0.15.1b
+    * Updated polarssl to 1.2.6
+    * Updated rtmpdump to git df6c518
+
 *(03-09-2013) - r**35935*:
 
   * Updated MPlayer to svn r**35935
