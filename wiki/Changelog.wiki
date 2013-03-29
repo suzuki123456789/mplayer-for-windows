@@ -1,7 +1,16 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
-Note: "Draft" indicates a work-in-progress build, not released yet and data/content subject to change.
+Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-progress build, not released yet and data/content subject to change.
+
+*(03-29-2013) - r**36089*:
+
+  * Updated MPlayer to svn r**36089
+  * Updated FFmpeg to git 551f683 (r**51433)
+
+  * External libraries:
+    * Updated libass to git 085666a
+    * Updated live555 to 2013.03.23
 
 *(03-24-2013) - r**36050*:
 
