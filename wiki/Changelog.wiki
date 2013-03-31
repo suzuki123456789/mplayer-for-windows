@@ -3,10 +3,10 @@
 
 Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-progress build, not released yet and data/content subject to change.
 
-*(03-30-2013) - r**36104*: 
+*(03-30-2013) - r**36106*: 
 
-  * Updated MPlayer to svn r**36104
-  * Updated FFmpeg to git 8b9059c (r**51469)
+  * Updated MPlayer to svn r**36106
+  * Updated FFmpeg to git 8cd7aab (r**51471)
 
   * External libraries:
     * Updated libass to git d29915d
