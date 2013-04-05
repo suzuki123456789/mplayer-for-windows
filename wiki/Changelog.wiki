@@ -7,7 +7,7 @@ Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-p
 *Next Release*:
 
   * Updated MPlayer to svn r**36169
-  * Updated FFmpeg to git 9a8f1e7 (r**51625)
+  * Updated FFmpeg to git 37f080f (r**51638)
 
   * External libraries:
     * Updated libass to git 68c3268
