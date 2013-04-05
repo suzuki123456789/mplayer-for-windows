@@ -3,8 +3,9 @@
 
 Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-progress build, not released yet and data/content subject to change.
 
-
 *Next Release*:
+
+*(04-05-2013) - r**36169*: 
 
   * Updated MPlayer to svn r**36169
   * Updated FFmpeg to git 37f080f (r**51638)
