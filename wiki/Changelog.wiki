@@ -11,6 +11,9 @@ Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-p
 
   * External libraries:
     * Updated libass to git 68c3268
+    * Updated libmpg123 to 1.15.3
+    * Updated libpng to 1.6.1
+    * Updated live555 to 2013.04.05
 
 *(03-30-2013) - r**36106*: 
 
