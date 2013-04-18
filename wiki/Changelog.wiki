@@ -5,6 +5,16 @@ Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-p
 
 *Next Release*:
 
+*(04-??-2013) - r**36171*:
+
+  * Updated MPlayer to svn r**36171
+  * Updated FFmpeg to git 4c8ce75 (r**52246)
+
+  * External libraries:
+    * Updated libass to git ed55e32
+    * Updated libfontconfig to 2.10.92
+    * Updated live555 to 2013.04.16
+
 *(04-11-2013) - r**36170*:
 
   * Updated MPlayer to svn r**36170
