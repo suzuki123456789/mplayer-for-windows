@@ -5,7 +5,7 @@ Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-p
 
 *Next Release*:
 
-*(04-??-2013) - r**36171*:
+*(04-19-2013) - r**36171*:
 
   * Updated MPlayer to svn r**36172
   * Updated FFmpeg to git b63f7b3 (r**52262)
