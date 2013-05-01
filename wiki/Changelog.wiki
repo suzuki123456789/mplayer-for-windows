@@ -5,6 +5,15 @@ Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-p
 
 *Next Release*:
 
+*(05-01-2013) - r**36197*:
+
+  * Updated MPlayer to svn r**36197
+  * Updated FFmpeg to git 14f45bc (r**52593)
+
+  * External libraries:
+    * Updated x264 to git 76a5c3a
+    * Updated live555 to 2013.04.30
+
 *(04-26-2013) - r**36175*:
 
   * Updated MPlayer to svn r**36175
