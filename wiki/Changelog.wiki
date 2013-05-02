@@ -5,6 +5,15 @@ Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-p
 
 *Next Release*:
 
+*(05-02-2013) - r**36207*:
+
+  * Updated MPlayer to svn r**36207
+  * Updated FFmpeg to git N-52649-g6021615
+
+  * External libraries:
+    * Updated libbluray to 0.3.0
+    * Updated libpng to 1.6.2
+
 *(05-01-2013) - r**36197*:
 
   * Updated MPlayer to svn r**36197
