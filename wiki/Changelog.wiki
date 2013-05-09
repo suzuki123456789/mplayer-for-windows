@@ -3,6 +3,19 @@
 
 Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-progress build, not released yet and data/content subject to change.
 
+*(05-09-2013) - r**36251*:
+
+  * Updated MPlayer to svn r**36251
+  * Updated FFmpeg to git N-52919-ge4723a8
+
+  * External libraries:
+    * Updated zlib to 1.2.8
+
+*(05-06-2013) - r**36243*:
+
+  * Updated MPlayer to svn r36243
+  * Updated FFmpeg to git N-52798-gf5846dc
+
 *(05-05-2013) - r**36237*:
 
   * Updated MPlayer to svn r**36237
