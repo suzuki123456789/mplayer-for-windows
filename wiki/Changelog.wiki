@@ -3,6 +3,14 @@
 
 Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-progress build, not released yet and data/content subject to change.
 
+*(05-11-2013) - r**36265*:
+
+  * Updated MPlayer to svn r**36265
+  * Updated FFmpeg to git N-52985-gcbcc5cb
+
+  * External libraries:
+    * Updated freetype2 to 2.4.12
+
 *(05-09-2013) - r**36251*:
 
   * Updated MPlayer to svn r**36251
