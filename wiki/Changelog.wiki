@@ -3,7 +3,7 @@
 
 *(05-16-2013) - r**36275*: (WIP)
 
-  * Updated MPlayer to svn r36275
+  * Updated MPlayer to svn r**36275
   * Updated FFmpeg to git N-53169-gcb0b026
 
   * External libraries:
