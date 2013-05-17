@@ -1,7 +1,13 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
-Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-progress build, not released yet and data/content subject to change.
+*(05-16-2013) - r**36275*: (WIP)
+
+  * Updated MPlayer to svn r36275
+  * Updated FFmpeg to git N-53169-gcb0b026
+
+  * External libraries:
+    * Updated libass to git b634305
 
 *(05-11-2013) - r**36265*:
 
@@ -122,6 +128,11 @@ Note: Changelog for a unreleased (not listed on Downloads) indicates a work-in-p
 
   * Updated MPlayer to svn r**36005
   * Updated FFmpeg to git 76d1c07 (r**51057)
+
+*(03-17-2013) - r**35966*:
+
+  * Updated MPlayer to svn r**35966
+  * Updated FFmpeg to git 8a523cf (r**50955)
 
 *(03-16-2013) - r**35968*:
 
