@@ -1,10 +1,10 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
-*(05-16-2013) - r**36275*: (WIP)
+*(05-17-2013) - r**36275*:
 
   * Updated MPlayer to svn r**36275
-  * Updated FFmpeg to git N-53169-gcb0b026
+  * Updated FFmpeg to git N-53170-g17989dc
 
   * External libraries:
     * Updated libass to git b634305
