@@ -1,6 +1,15 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
+*(05-25-2013) - r**36281*:
+
+  * Updated MPlayer to svn r36281
+  * Updated FFmpeg to git N-53430-g2c2e69b
+
+  * External libraries:
+    * Updated mpg123 to 1.15.4
+    * Updated x264 to git a3ac64b
+
 *(05-20-2013) - r**36279*:
 
   * Updated MPlayer to svn r**36279
@@ -32,7 +41,7 @@
 
 *(05-06-2013) - r**36243*:
 
-  * Updated MPlayer to svn r36243
+  * Updated MPlayer to svn r**36243
   * Updated FFmpeg to git N-52798-gf5846dc
 
 *(05-05-2013) - r**36237*:
