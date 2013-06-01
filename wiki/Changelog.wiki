@@ -1,6 +1,14 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
+*(05-31-2013) - r**36293*:
+
+  * Updated MPlayer to svn r**36293
+  * Updated FFmpeg to git N-53724-g716dbc7
+
+  * External libraries:
+    * Updated libogg to 1.3.1
+
 *(05-25-2013) - r**36281*:
 
   * Updated MPlayer to svn r**36281
