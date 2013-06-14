@@ -1,6 +1,21 @@
 #summary Cumulative Changelog for MPlayer
 #labels Featured
 
+*(06-14-2013) - r**36345*:
+
+  * Updated MPlayer to svn r**36345
+  * Updated FFmpeg to git N-54023-g6fe419b
+
+*(06-07-2013) - r**36305*:
+
+  * Updated MPlayer to svn r**36305
+  * Updated FFmpeg to git N-53904-g56abad0
+
+*(06-03-2013) - r**36298*:
+
+  * Updated MPlayer to svn r**36298
+  * Updated FFmpeg to git N-53818-gfca435f
+
 *(05-31-2013) - r**36293*:
 
   * Updated MPlayer to svn r**36293
