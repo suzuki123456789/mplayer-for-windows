@@ -1,0 +1,1 @@
+Issue tracking has moved to: http://sourceforge.net/p/mplayerwin/_list/tickets

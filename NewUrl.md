@@ -1,0 +1,1 @@
+Wiki has moved to: http://sourceforge.net/p/mplayerwin/wiki

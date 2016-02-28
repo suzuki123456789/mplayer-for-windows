@@ -1,0 +1,1 @@
+Changelog has moved to: http://sourceforge.net/p/mplayerwin/wiki/Changelog/

@@ -1,0 +1,1 @@
+MinGW instructions have moved to: http://sourceforge.net/p/mplayerwin/wiki/MinGW/
